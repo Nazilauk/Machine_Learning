@@ -4,6 +4,8 @@ Project Name: Insurance Charges Linear Regression Analysis
 Description:
 This project uses a linear regression model to analyze the relationship between age and insurance charges. 
 By fitting a best fit line, we can better understand how age affects insurance costs and make predictions about potential charges based on a person's age.
+
+
 ![machine_learning](https://github.com/Nazilauk/machine_learning/assets/127387087/c3681566-4926-414f-9b3c-17e1d5f2f00d)
 
 Table of Contents:
